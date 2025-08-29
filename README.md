@@ -19,6 +19,8 @@ In the first layer, there is access to some much-needed keys as it will be troub
 A full writeup for the keymap will be soon posted in my blog.
 
 ## The Keymap
+## Demo on YT
+[![Demo on YT](https://img.youtube.com/vi/cj7dh_HxKhs/0.jpg)](https://www.youtube.com/watch?v=cj7dh_HxKhs)
 
 ## Layer 01
 ![](./images/scaled_keymap_layer01.png)
