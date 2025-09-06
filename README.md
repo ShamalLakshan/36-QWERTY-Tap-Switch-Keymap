@@ -1,9 +1,9 @@
-# 34-QWERTY-Tap-Switch-Keymap
-My 34-key QWERTY split keymap with tap-only layer switching, no home-row holds, and combos for essential keys.
+# 36-QWERTY-Tap-Switch-Keymap
+My 36-key QWERTY split keymap with tap-only layer switching, no home-row holds, and combos for essential keys.
 
 ## The Idea behind the keymap.
 
-I recently started building a 34 key split keyboard mainly for it's portability. And almost all the keymaps that I came across while searching for a suitable keymap had some issues for me that I didn't want to use them. Some of them were:
+I recently started building a 36 key split keyboard mainly for it's portability. And almost all the keymaps that I came across while searching for a suitable keymap had some issues for me that I didn't want to use them. Some of them were:
 
 1. Key holds for layers and modifiers which I am not familiar with 
 2. Most of the keymaps were optimized for a single text editor or task.
